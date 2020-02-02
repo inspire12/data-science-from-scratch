@@ -50,7 +50,7 @@ export PYTHONPATH=/이/레포지토리를/추가한/경로
 16. [로지스틱 회귀 분석](https://github.com/insight-book/data-science-from-scratch/blob/master/scratch/logistic_regression.py)
 17. [의사결정나무](https://github.com/insight-book/data-science-from-scratch/blob/master/scratch/decision_trees.py)
 18. [신경망](https://github.com/insight-book/data-science-from-scratch/blob/master/scratch/neural_networks.py)
-19. [딥러닝]
+19. [딥러닝](https://github.com/insight-book/data-science-from-scratch/blob/master/scratch/deep_learning.py)
 20. [군집화](https://github.com/insight-book/data-science-from-scratch/blob/master/scratch/clustering.py)
 21. [자연어 처리](https://github.com/insight-book/data-science-from-scratch/blob/master/scratch/nlp.py)
 22. [네트워크 분석](https://github.com/insight-book/data-science-from-scratch/blob/master/scratch/network_analysis.py)
