@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### IPythonNotebook template
 # Temporary data
 .ipynb_checkpoints/
@@ -144,5 +143,3 @@ notebook/twitter_app.conf
 =======
 __pycache__
 *.png
-
->>>>>>> cb0636b638b344d4859559cf070be90b172cf309
