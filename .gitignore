@@ -140,3 +140,6 @@ fabric.properties
 
 # Customize
 notebook/twitter_app.conf
+=======
+__pycache__
+*.png
